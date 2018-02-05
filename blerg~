@@ -1,0 +1,3 @@
+git add -A
+git commit -m "[ADD] So far the question model, the score label as well as the progress bar have been implemented. Next up is the progress hud in Objective-C"
+git push origin master
